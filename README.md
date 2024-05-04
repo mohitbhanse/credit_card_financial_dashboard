@@ -3,14 +3,14 @@
 
 There are some steps that i have follows:
 
-   Problem understanding
-   Data understanding
-   review on overall  what i have to done in this project
-   Data loading
-   data interpretation
-   findig the main KPI(key performance indicator)
+   Problem understanding,
+   Data understanding,
+   review on overall  what i have to done in this project,
+   Data loading,
+   data interpretation,
+   findig the main KPI(key performance indicator),
    making dashbord in canvas using various statistical visuals
-
+*********************************************************************************************
 #PROJECT INSIGHTS
 1.overall revenue is 57M
 2.total interest is 8M
